@@ -1,0 +1,27 @@
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe.config
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csprojResolveAssemblyReference.cache
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Form1.resources
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Properties.Resources.resources
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csproj.GenerateResource.Cache
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.pdb
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.exe
+D:\Tin Hoc\Lớp 11\C#\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.pdb
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe.config
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.pdb
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Form1.resources
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Properties.Resources.resources
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.exe
+C:\Users\admin\Desktop\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.pdb
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe.config
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.exe
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\bin\Debug\TriangleDrawer.pdb
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csprojResolveAssemblyReference.cache
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Form1.resources
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.Properties.Resources.resources
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.csproj.GenerateResource.Cache
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.exe
+F:\BT Tin 11\C#\01+08+15-12-2017\TriangleDrawer\TriangleDrawer\TriangleDrawer\TriangleDrawer\obj\Debug\TriangleDrawer.pdb
